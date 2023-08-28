@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm jaydeepsharma from india<br><br>- 📚 I'm currently learning programing languages like c,c++ and dart.<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm jaydeepsharma from india<br><br>- 📚 I'm currently learning programing languages like c,c++ and dart.<br>- 💬 Ask me about flutter.<br>- 📫️ how to reach me:sharmajaydeep1515@gmail.com</p>
 
 ###
 
