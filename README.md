@@ -6,7 +6,7 @@
 
 <div align="center">
 <a href="https://instagram.com/jaydeepsharma93?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
- <a href="sharmajaydeep1515@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gamail logo"  /></a>
+ <a href="https://sharmajaydeep1515@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gamail logo"  /></a>
  <a href="https://telegram.org/dl"> <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  /></a>
 </div>
 
