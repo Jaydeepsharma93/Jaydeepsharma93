@@ -26,18 +26,28 @@
 
 ###
 
-<p align="left">I'm jaydeepsharma from india<br><br>- 📚 I'm currently learning programing languages like c,c++ and dart.<br>- 💬 Ask me about flutter.<br>- 📫️ how to reach me: sharmajaydeep1515@gmail.com</p>
+<h1 align="center">Hi 👋, I'm Jaydeep sharma</h1>
+<h3 align="center">A passionate flutter developer from India</h3>
 
-### 
+- 🔭 I’m currently working on **flutter**
 
-<h3 align="left">🛠 Language and tools</h3>
+- 🌱 I’m currently learning **programing languages like c,c++,java and dart.**
 
-###
+- 👨‍💻 All of my projects are available at [https://github.com/Jaydeepsharma93?tab=repositories](https://github.com/Jaydeepsharma93?tab=repositories)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c -original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-</div>
+- 💬 Ask me about **flutter.**
+
+- 📫 How to reach me **sharmajaydeep1515@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/jaydeepsharma93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaydeepsharma93" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaydeepsharma93&show_icons=true&locale=en" alt="jaydeepsharma93" /></p>
 
 ###
 
@@ -45,7 +55,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeepsharma93&" alt="jaydeepsharma93" /></p>
