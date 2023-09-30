@@ -11,9 +11,8 @@
 </div>
 
 ###
-<div align="center">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaydeepsharma93&label=Profile%20views&color=0e75b6&style=flat" alt="jaydeepsharma93" /> </p>
-</div>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jaydeepsharma93&label=Profile%20views&color=0e75b6&style=flat" alt="jaydeepsharma93" /> </p>
 
 ###
 
